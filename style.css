@@ -1,0 +1,15 @@
+html {
+    display: flex;
+}
+
+body {
+    margin: 0 auto;
+    width: max-content;
+    float: inline-start;
+    padding-inline-start: 10px;
+    padding-inline-end: 10px;
+}
+
+@headers {
+    font font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
